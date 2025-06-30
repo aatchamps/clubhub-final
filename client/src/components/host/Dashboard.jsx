@@ -100,13 +100,8 @@ const HostDashboard = () => {
             }}
           >
             {event.poster && (
-<<<<<<< HEAD
               <div style={{ overflow: "hidden" }}>
                 <img
-=======
-              <div style={{ overflow: 'hidden' }}>
-                <img 
->>>>>>> adc359f8baa6d455a4ba246cf0d1f1990d0ab177
                   src={`http://13.127.127.131:5000/uploads/${event.poster}`}
                   alt={`${event.name} poster`}
                   style={{
