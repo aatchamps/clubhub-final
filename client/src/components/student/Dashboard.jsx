@@ -124,7 +124,7 @@ const StudentDashboard = () => {
             {event.poster && (
               <div style={{ overflow: "hidden" }}>
                 <img
-                  src={`http://localhost:5000/uploads/${event.poster}`}
+                  src={`http://13.127.127.131:5000/uploads/${event.poster}`}
                   alt={`${event.name} poster`}
                   style={{
                     width: "100%",
