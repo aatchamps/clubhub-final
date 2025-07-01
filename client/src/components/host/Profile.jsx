@@ -137,7 +137,8 @@ const HostProfile = () => {
                   width: '100%',
                   padding: '10px',
                   borderRadius: '4px',
-                  border: '1px solid #ddd'
+                  border: '1px solid #ddd',
+                  color: '#000000'
                 }}
               />
             </div>
@@ -153,7 +154,8 @@ const HostProfile = () => {
                   width: '100%',
                   padding: '10px',
                   borderRadius: '4px',
-                  border: '1px solid #ddd'
+                  border: '1px solid #ddd',
+                  color: '#000000'
                 }}
               />
             </div>
